@@ -16,6 +16,7 @@ set backspace=indent,eol,start  " backspace works the way you expect
 " What you see
 " ---------------------------------------------------------------------------
 set number                  " line numbers — compiler errors cite them
+set relativenumber          " relative line numbers for easier jumping
 set ruler                   " cursor position in the bottom right
 set showcmd                 " show partially typed commands
 set laststatus=2            " always show the status line
