@@ -55,6 +55,9 @@ alias gdb='gdb -q'          # skip the gdb license banner
 alias ..='cd ..'
 alias grep='grep --color=auto'
 
+# CS 180 checkstyle
+alias cs180checkstyle='$HOME/repos/cs180/checkstyle.sh'
+
 # ---------------------------------------------------------------------------
 # Environment
 # ---------------------------------------------------------------------------
